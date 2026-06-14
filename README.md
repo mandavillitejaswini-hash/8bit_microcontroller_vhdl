@@ -1,4 +1,4 @@
-# 8-bit Pipelined ALU using VHDL
+# 8-bit Pipelined ALU using Verilog
 
 ## Project Overview
 
